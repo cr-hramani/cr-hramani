@@ -185,40 +185,6 @@ fun_fact: "A good dashboard answers the question
 
 </div>
 
-<!-- ═══════════════════════════════ TIMELINE ═══════════════════════════════ -->
-
-## 🗓️ &nbsp;Experience Timeline
-
-```mermaid
-timeline
-    title Engineering Journey
-    section Foundations
-        Linux, scripting, log basics : Bash and Python tooling
-    section Splunk Engineering
-        Data onboarding at scale : Forwarders, props, transforms
-        Dashboards and reporting : SPL, data models, alerting
-    section Now
-        SIEM and detection content : Security-focused engineering
-        Automation everywhere : Ansible, CI, config-as-code
-```
-
-<sub>📝 <b>TODO:</b> replace with your real roles and years.</sub>
-
-<!-- ═══════════════════════════════ CERTIFICATIONS ═══════════════════════════════ -->
-
-## 🏅 &nbsp;Certifications
-
-<div align="center">
-
-<!-- TODO: keep ONLY the certifications you actually hold -->
-<img src="https://img.shields.io/badge/Splunk-Core%20Certified%20Power%20User-0d1117?style=for-the-badge&logo=splunk&logoColor=EC1C24" />
-<img src="https://img.shields.io/badge/Splunk-Enterprise%20Admin-0d1117?style=for-the-badge&logo=splunk&logoColor=EC1C24" />
-
-<br/>
-<sub>⚠️ <b>Placeholder badges — delete any you do not hold before merging.</b></sub>
-
-</div>
-
 <!-- ═══════════════════════════════ QUOTE ═══════════════════════════════ -->
 
 <div align="center">
