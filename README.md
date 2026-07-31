@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cr-hramani&bg_color=0D1117&color=00F5FF&line=FF00FF&point=FFFFFF&area=true&area_color=8A2BE2&hide_border=true" alt="contribution graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cr-hramani&bg_color=0D1117&color=FFFF00&line=FF0000&point=FF0000&area=true&area_color=3A0D0D&hide_border=true" alt="contribution graph" />
 
 <br/><br/>
 
