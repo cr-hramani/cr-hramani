@@ -4,6 +4,6 @@
 
 <br/><br/>
 
-<img width="50%" height="260" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cr-hramani&theme=github_dark" alt="profile details" /><img width="50%" height="260" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cr-hramani&theme=github_dark&utcOffset=5.5" alt="productive time" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cr-hramani&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" alt="stats" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr-hramani&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" alt="top languages" />
 
 </div>
